@@ -1,4 +1,4 @@
-### Hi there, I'm Lucca! 👋
+# Hi there, I'm Lucca! 👋
 
 I'm a Software Engineering student looking for new opportunities to broaden my skills as a developer :)
 
