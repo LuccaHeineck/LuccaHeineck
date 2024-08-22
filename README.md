@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student looking for new opportunities to broaden my skills as a developer :)
 
-- Student at University Univates, majoring Software Engineering -> 3rd/8
+- Student at University Univates, majoring Software Engineering -> 4th/8
 - Currently learning new programming languages, exploring API development and various frameworks.
 - Looking for opportunities to work in original projects and enhance my expertise within the field.
 
@@ -17,10 +17,11 @@ I'm a Software Engineering student looking for new opportunities to broaden my s
   <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
   ## Currently studying:
   
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
