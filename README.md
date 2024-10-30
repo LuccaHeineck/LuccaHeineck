@@ -39,7 +39,7 @@ I'm a Software Engineering student looking for new opportunities to broaden my s
 
   ### Check my LinkedIn for more information!
 
-  <a href="www.linkedin.com/in/lucca-heineck-7247a8288" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucca-heineck-7247a8288" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 **LuccaHeineck/LuccaHeineck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
