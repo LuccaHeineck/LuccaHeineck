@@ -32,13 +32,14 @@ I'm a Software Engineering student looking for new opportunities to broaden my s
   <div align=center>
     <img width=507 src="https://github-readme-stats.vercel.app/api?username=LuccaHeineck&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github" alt="github stats" />
     <img width=334 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaHeineck&langs_count=8&theme=gruvbox&layout=compact" alt="top langs" />
+  </div>
+
+  </div>
 </div>
 
   ### Check my LinkedIn for more information!
 
-  <a href="https://www.linkedin.com/in/daniel-corbellini-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
-</div>
-
+  <a href="www.linkedin.com/in/lucca-heineck-7247a8288" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 **LuccaHeineck/LuccaHeineck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
