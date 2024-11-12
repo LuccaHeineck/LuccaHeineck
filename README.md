@@ -19,6 +19,7 @@ I'm a Software Engineering student looking for new opportunities to broaden my s
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
 
   ## Currently studying:
   
