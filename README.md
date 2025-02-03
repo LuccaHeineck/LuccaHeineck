@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student looking for new opportunities to broaden my skills as a developer :)
 
-- Student at University Univates, majoring Software Engineering -> 4th/8
+- Student at University Univates, majoring Software Engineering -> 5th/8
 - Currently learning new programming languages, exploring API development and various frameworks.
 - Looking for opportunities to work in original projects and enhance my expertise within the field.
 
