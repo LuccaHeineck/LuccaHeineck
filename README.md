@@ -6,6 +6,7 @@ I'm a Software Engineering student looking for new opportunities to broaden my s
 - Currently learning new programming languages, exploring API development and various frameworks.
 - Looking for opportunities to work in original projects and enhance my expertise within the field.
 
+Portfolio: https://luccaheineck.github.io/
 
 <div>
   <div style="display: inline_block" align="center"><br>
@@ -30,8 +31,6 @@ I'm a Software Engineering student looking for new opportunities to broaden my s
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-
-  ### Portfolio: https://luccaheineck.github.io/
 
   ## Stats:
 
