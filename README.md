@@ -31,6 +31,8 @@ I'm a Software Engineering student looking for new opportunities to broaden my s
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 
+  ### Portfolio: https://luccaheineck.github.io/
+
   ## Stats:
 
   <div align=center>
