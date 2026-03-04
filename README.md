@@ -23,7 +23,7 @@ I'm a Software Developer based in Brazil.
   
 <p align="center">
     <img height="190" src="https://github-readme-stats-one-bice.vercel.app/api?username=LuccaHeineck&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-    <img height="190" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuccaHeineck&hide=jupyter%20notebook,css,scss,cmake,pug&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" />
+    <img height="190" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuccaHeineck&hide=jupyter%20notebook,css,scss,cmake,pug,html,blade,astro&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=luccaheineck&theme=tokyonight&hide_border=true" alt="luccaheineck's GitHub Stats" />
 </p>
 
