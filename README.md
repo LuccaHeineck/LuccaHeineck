@@ -1,73 +1,35 @@
-# Hi there, I'm Lucca! 👋
+# Hi, I'm Lucca 👋
 
-I'm a Software Engineering student looking for new opportunities to broaden my skills as a developer :)
+I'm a Software Developer based in Brazil.
 
-- Student at University Univates, majoring Software Engineering -> 7th/8
-- Currently learning new programming languages, exploring API development and various frameworks.
-- Looking for opportunities to work in original projects and enhance my expertise within the field.
+- Software Engineering student (7th of 8 semesters), currently writing my thesis  
+- Working with AI integration, MCP, and microservices architectures  
+- Passionate about software architecture and game development, always learning
 
-Portfolio: https://luccaheineck.github.io/
+## Skills
 
-    
-  ## Skills:
+<div>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,javascript,tailwind,postgres,gitlab,react,docker,linux,bun&perline=20" />
+</div>
+<br/>
 
-  <div>
-    <div style="display: inline_block" align="center"><br>
-      <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
-      <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
-     </div>
-  </div>
+## Currently studying
+<div>
+    <img src="https://skillicons.dev/icons?i=godot,unity,nextjs,typescript,docker,express,jest&perline=20" />
+</div>
+<br/>
+
+##
   
-  ## Currently studying:
-      
-  <div>
-    <div style="display: inline_block" align="center"><br>
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    </div>
-  </div>
-  
-  ## Stats:
+<p align="center">
+    <img height="190" src="https://github-readme-stats-one-bice.vercel.app/api?username=LuccaHeineck&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+    <img height="190" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuccaHeineck&hide=jupyter%20notebook,css,scss,cmake,pug&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=luccaheineck&theme=tokyonight&hide_border=true" alt="luccaheineck's GitHub Stats" />
+</p>
 
-  <div align=center>
-    <img width=550 src="https://github-readme-stats-one-bice.vercel.app/api?username=LuccaHeineck&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
-    <img width=400 src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuccaHeineck&hide=jupyter%20notebook,css,scss,cmake,pug&langs_count=8&theme=tokyonight&layout=compact" alt="top langs" />
-  </div>
+## Contact me!
 
-
-
-
-  ### Check my LinkedIn for more information!
-
-  <a href="https://www.linkedin.com/in/lucca-heineck-7247a8288" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--
-**LuccaHeineck/LuccaHeineck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: block">
+    <a href="https://www.linkedin.com/in/lucca-heineck-/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=20" /></a>
+    <a href="mailto:luccacheineck@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&perline=20" /></a>
+</div>
