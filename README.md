@@ -41,9 +41,10 @@ Portfolio: https://luccaheineck.github.io/
   ## Stats:
 
   <div align=center>
-    <img width=507 src="https://github-readme-stats.vercel.app/api?username=LuccaHeineck&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github" alt="github stats" />
-    <img width=334 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaHeineck&langs_count=8&theme=gruvbox&layout=compact" alt="top langs" />
+    <img width=550 src="https://github-readme-stats-one-bice.vercel.app/api?username=LuccaHeineck&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
+    <img width=400 src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuccaHeineck&hide=jupyter%20notebook,css,scss,cmake,pug&langs_count=8&theme=tokyonight&layout=compact" alt="top langs" />
   </div>
+
 
   </div>
 </div>
