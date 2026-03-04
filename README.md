@@ -9,7 +9,7 @@ I'm a Software Developer based in Brazil.
 ## Skills
 
 <div>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,javascript,tailwind,postgres,gitlab,react,docker,linux,bun&perline=20" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,nodejs,javascript,typescript,tailwind,react,postgres,gitlab,docker,linux,bun&perline=20" />
 </div>
 <br/>
 
