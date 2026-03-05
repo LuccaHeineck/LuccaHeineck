@@ -15,7 +15,7 @@ I'm a Software Developer based in Brazil.
 
 ## Currently studying
 <div>
-    <img src="https://skillicons.dev/icons?i=godot,unity,nextjs,typescript,docker,express,jest&perline=20" />
+    <img src="https://skillicons.dev/icons?i=godot,unity,nextjs,typescript,docker,express,kotlin,jest&perline=20" />
 </div>
 <br/>
 
